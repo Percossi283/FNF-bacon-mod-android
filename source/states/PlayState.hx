@@ -74,7 +74,7 @@ class PlayState extends MusicBeatState
 
 	public static var ratingStuff:Array<Dynamic> = [
 		[...', 0.2], //From 0% to 19%
-		['fuck you bull Shit', 0.4], //From 20% to 39%
+		['SUPER BAD!!!', 0.4], //From 20% to 39%
 		['Ur Bad >:(', 0.5], //From 40% to 49%
 		['uh', 0.6], //From 50% to 59%
 		['bruh', 0.69], //From 60% to 68%
